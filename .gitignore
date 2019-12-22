@@ -1,0 +1,7 @@
+.idea/*
+*.pyc
+*.swp
+build/
+dist/
+docs/_build
+.cache
