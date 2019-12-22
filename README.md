@@ -11,7 +11,7 @@ Installation
 ============
 
 ```
-$ pip install TBA
+$ pip install -i https://test.pypi.org/simple/ ycloud==0.1
 ```
 
 Configuration
